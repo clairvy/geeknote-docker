@@ -1,0 +1,4 @@
+geeknote:
+  build: .
+  volumes:
+    - .geeknote:/root/.geeknote

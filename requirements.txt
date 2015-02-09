@@ -1,1 +1,1 @@
--e git+https://github.com/VitaliyRodnenko/geeknote.git@828c1b9c255321a6e651779b8dec6f3c4c3fcc9c#egg=geeknote
+-e git+https://github.com/jeffkowalski/geeknote.git@fbe01bd660015a4a37442f25a17035d2587242fc#egg=geeknote
